@@ -58,7 +58,7 @@ public class MantenimientoJornadas extends javax.swing.JInternalFrame {
         setTitle("Mantenimiento de Jornadas");
         setVisible(true);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
         txt_estadojornada.setBackground(new java.awt.Color(227, 227, 227));
         txt_estadojornada.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N

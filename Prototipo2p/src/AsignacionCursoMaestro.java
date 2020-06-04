@@ -54,7 +54,7 @@ public class AsignacionCursoMaestro extends javax.swing.JInternalFrame {
         setResizable(true);
         setVisible(true);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
         jLabel5.setFont(new java.awt.Font("Century Gothic", 1, 14)); // NOI18N
         jLabel5.setText("Código de Carrera:");
@@ -87,7 +87,7 @@ public class AsignacionCursoMaestro extends javax.swing.JInternalFrame {
 
         cboCodigoCarrera.setFont(new java.awt.Font("Century Gothic", 1, 14)); // NOI18N
         cboCodigoCarrera.setBorder(null);
-        cboCodigoCarrera.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        cboCodigoCarrera.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         cboCodigoCarrera.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cboCodigoCarreraActionPerformed(evt);

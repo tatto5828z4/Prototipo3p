@@ -47,7 +47,7 @@ public class ConsultasAsignacionAlumnos extends javax.swing.JInternalFrame {
         setResizable(true);
         setVisible(true);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
         buttonPrueba1.setText("buttonPrueba1");
         buttonPrueba1.addAncestorListener(new javax.swing.event.AncestorListener() {

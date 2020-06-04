@@ -54,7 +54,7 @@ public class MantenimientoCarreras extends javax.swing.JInternalFrame {
         setResizable(true);
         setVisible(true);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
         jLabel1.setFont(new java.awt.Font("Century Gothic", 1, 14)); // NOI18N
         jLabel1.setText("Código de la Carrera:");

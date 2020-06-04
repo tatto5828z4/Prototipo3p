@@ -41,7 +41,7 @@ public class MantenimientoSecciones extends javax.swing.JInternalFrame {
         setTitle("Mantenimiento de Secciones ");
         setVisible(true);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
         btnBuscar.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
