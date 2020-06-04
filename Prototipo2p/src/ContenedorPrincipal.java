@@ -80,6 +80,7 @@ public class ContenedorPrincipal extends javax.swing.JFrame {
         jMenu4 = new javax.swing.JMenu();
         jMenuBuscar = new javax.swing.JMenuItem();
         jMenu5 = new javax.swing.JMenu();
+        jMenu7 = new javax.swing.JMenu();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -87,7 +88,7 @@ public class ContenedorPrincipal extends javax.swing.JFrame {
         jDesktopPane1.setLayout(jDesktopPane1Layout);
         jDesktopPane1Layout.setHorizontalGroup(
             jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
+            .addGap(0, 584, Short.MAX_VALUE)
         );
         jDesktopPane1Layout.setVerticalGroup(
             jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -244,6 +245,10 @@ public class ContenedorPrincipal extends javax.swing.JFrame {
         jMenu5.setText("Ayuda");
         jMenu5.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N
         jMenuBar1.add(jMenu5);
+
+        jMenu7.setText("JORGE CASTANEDA 9959-18-4964");
+        jMenu7.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N
+        jMenuBar1.add(jMenu7);
 
         setJMenuBar(jMenuBar1);
 
@@ -422,6 +427,7 @@ public class ContenedorPrincipal extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu4;
     private javax.swing.JMenu jMenu5;
     private javax.swing.JMenu jMenu6;
+    private javax.swing.JMenu jMenu7;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenuItem jMenuBuscar;
     private javax.swing.JMenuItem jMenuItem1;
